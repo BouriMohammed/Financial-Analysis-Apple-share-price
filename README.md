@@ -21,4 +21,4 @@ Lors du traitement des données, j’ai opté pour le langage R, qui est consid�
 bases de données comme la mienne, et génère des graphes représentatifs (Tous les graphes
 du rapport sont des sorties du langage R)
 
-*** Vous trouviez ci-joint le rapport du travail, ainsi que le code source. ***
+** Vous trouviez ci-joint le rapport du travail, ainsi que le code source. **
