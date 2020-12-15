@@ -1,24 +1,26 @@
 # Financial_analysis
 ## Introduction
-Dans le cadre du cours « Marchés financiers et gestion de portefeuille », le présent rapport a pour objet de présenter une analyse financière d’une série temporelle, en particulier celle des « prix » d’APPLE.
+As part of the "Financial Markets and Portfolio Management" course, the purpose of this report is to present a financial analysis of a time series, in particular that of APPLE "prices".
 
-Pour cela j’ai fait une recherche dans la plateforme Yahoo, en particulier « Yahoo-Finance », pour avoir une base de données qui me permettra d’avoir une idée générale sur le comportement des variables à savoir : Open, High, Low, Close, Adj.Close, Volume » selon la variable « Date ».
+To do this I made a search in the Yahoo platform, in particular "Yahoo-Finance", to have a database that will allow me to have a general idea on the behavior of the variables, namely : Open, High, Low, Close, Adj.Close, Volume " according to the variable " Date ".
 
-## Objectifs, Matériels et Outils
-###### Objectifs :
-L’analyse financière est un ensemble de méthodes, de démarches et d’outils qui permet d’étudier et de juger la situation et les résultats financiers d’une entreprise ou d’un ensemble d’entreprises.
+## Objectives, Materials and Tools
+###### Objectives :
+Financial analysis is a set of methods, approaches and tools that allows to study and judge the financial situation and results of a company or a group of companies.
 
-C’est dans ce contexte que mon travail peut être ancré. Il a pour but essentiel de répondre, au niveau de divers volets, à un certain nombre d’objectifs que j’ai préalablement fixés, à savoir :
-- Présentation et analyse des données (Statistique descriptive).
-- Estimations et Tests (Inférence, Séries temporelles) : Rappels théoriques, estimateurs, lois, lecture des sorties R.
-- Validation des propriétés statistiques (propriétés des données financières).
-- Modélisation et prédiction à l’aide des séries temporelles.
-- Modélisation et prédiction à l’aide des techniques de lissage. . .
+It is in this context that my work can be anchored. Its main goal is to respond, at the level of various aspects, to a certain number of objectives that I have previously set, namely :
+- Presentation and analysis of data (descriptive statistics).
+- Estimates and Tests (Inference, Time Series): Theoretical reminders, estimators, laws, reading R outputs.
+- Validation of statistical properties (properties of financial data).
+- Modeling and prediction using time series.
+- Modeling and prediction using smoothing techniques .
 
-###### Matériels et outils :
-Lors du traitement des données, j’ai opté pour le langage R, qui est considéré comme étant le programme le plus performant en matière de statistique. Ce choix est justifié par plusieurs raisons :
-- Le langage R est un langage Open source, facilite la manipulation des petites
-bases de données comme la mienne, et génère des graphes représentatifs (Tous les graphes
-du rapport sont des sorties du langage R)
+###### Materials and tools :
+When processing the data, I opted for the R language, which is considered to be the most powerful program for statistics. There are several reasons for this choice:
+- The R language is an open source language 
+- Ease of handling small databases like mine
+- Generation of representative graphs (All graphs of the report are outputs of the R language)
 
-***Vous trouviez ci-joint le rapport du travail, ainsi que le code source.***
+***You will find attached the report of the work, as well as the source code.
+
+
