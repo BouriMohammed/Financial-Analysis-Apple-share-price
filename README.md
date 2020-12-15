@@ -21,6 +21,6 @@ When processing the data, I opted for the R language, which is considered to be 
 - Ease of handling small databases like mine
 - Generation of representative graphs (All graphs of the report are outputs of the R language)
 
-***You will find attached the report of the work, as well as the source code.
+***You will find attached the report of the work, as well as the source code.***
 
 
